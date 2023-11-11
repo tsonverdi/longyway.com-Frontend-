@@ -8,7 +8,7 @@ import "./styles/styles.scss";
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>
         <StoreProvider store={store}>
-            <App />
+            <App/>
         </StoreProvider>
     </React.StrictMode>
 );
