@@ -1,6 +1,6 @@
-# Pick-Drive Car Rental Web App
+Rental Web App
 
-The Pick-Drive Car Rental application is a robust web-based platform designed to provide users to rent cars using various devices such as computers, phones, tablets, or mobile devices. The application caters to different user roles, including unregistered users, customers, and administrators, each with specific functionalities.
+This application is a robust web-based platform designed to provide users to rent cars using various devices such as computers, phones, tablets, or mobile devices. The application caters to different user roles, including unregistered users, customers, and administrators, each with specific functionalities.
 
 ## Key Features
 
@@ -51,19 +51,4 @@ The Pick-Drive Car Rental application is a robust web-based platform designed to
    - Admin users can add reservations for a specific car and user.
    - Admin users can retrieve, update, and delete reservations.
    - Admin users can generate Excel reports for all reservations, a specific reservation, and a user's reservations.
-
-## How to run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pick-drive.git
-   ```
-2. How to run the application:
-   2a. node_modules
-   ```bash
-   npm install
-   ```
-   2b. run command
-   ```bash
-   npm run dev
-   ```      
+    
